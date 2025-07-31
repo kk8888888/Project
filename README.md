@@ -2,7 +2,8 @@
 Problem Description:
 Your is tasked with creating a simple inventory management program for a small shop. The program must
 be menu-driven and allow the user to perform several actions repeatedly until they choose to exit.
-Program Requirements:
+
+# Program Requirements:
 Menu System: The program must display a menu of options and use a while or do-while loop to run
 continuously until the user selects the "Exit" option.
 
