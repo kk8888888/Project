@@ -8,9 +8,9 @@ continuously until the user selects the "Exit" option.
 
 
 
-#Question 2 : Simple Menu-Driven Fare Calculator
+# Question 2 : Simple Menu-Driven Fare Calculator
 
-Problem Description:
+#  Problem Description:
 You are required to create a Java program for a simple public transport fare calculator. The program
 should repeatedly display a menu of options to the user until they choose to exit.
 Menu Options : (4 marks)
